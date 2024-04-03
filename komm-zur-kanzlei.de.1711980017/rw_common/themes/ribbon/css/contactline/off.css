@@ -1,0 +1,5 @@
+#mailicon {
+	background: url(images/mail.png) no-repeat;
+	float: right;
+	display: none;
+}

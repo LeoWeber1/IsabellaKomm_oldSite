@@ -1,0 +1,10 @@
+.blog-entry {
+	letter-spacing: -.5px;
+	text-align: left;
+	font-size: 10px;
+	line-height: 14px;
+	background: no-repeat url(../../images/bloghdrfolded.png);
+	padding-left: 28px;
+	padding-top: 20px;
+	padding-right: 15px;
+}

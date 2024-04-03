@@ -1,0 +1,7 @@
+blockquote {
+	padding: 16px 10px 10px 17px;
+	color: #7f7f7f;
+	font-weight: bold;
+	text-align: left;
+	background: url(../../images/quotemark.png) no-repeat;
+}

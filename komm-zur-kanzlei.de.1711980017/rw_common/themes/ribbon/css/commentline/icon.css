@@ -1,0 +1,14 @@
+.blog-entry-comments {
+	text-align: left;
+	color: #999999;
+	background: no-repeat url(../../images/bubble.png);
+	margin-top: 15px;
+	padding-left: 25px;
+	padding-top: 1px;
+	border-top: 1px solid #cccccc;
+}
+
+.blog-entry-comments a {
+	text-align: left;
+	color: #999999;
+}

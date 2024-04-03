@@ -1,0 +1,10 @@
+.blog-entry {
+	letter-spacing: -.5px;
+	text-align: left;
+	font-size: 10px;
+	line-height: 14px;
+	background: none;
+	border: 1px solid #cccccc;
+	padding: 20px 22px 8px 28px;
+	margin-top: 5px;
+}

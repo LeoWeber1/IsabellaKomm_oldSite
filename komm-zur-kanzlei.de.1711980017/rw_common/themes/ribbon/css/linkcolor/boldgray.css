@@ -1,0 +1,38 @@
+a:link {
+	color: #666666;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: #666666;
+	font-weight: bold;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #b3b3b3;
+	font-weight: bold;
+}
+
+#breadcrumbcontainer li {
+	padding: 0px;
+	display: inline;
+	color: #666666;
+	font-weight: bold;
+}
+
+#breadcrumbcontainer a {
+	display: inline;
+	color: #666666;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#breadcrumbcontainer a:hover {
+	display: inline;
+	color: #b3b3b3;
+	font-weight: bold;
+	text-decoration: underline;
+}

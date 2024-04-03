@@ -1,0 +1,32 @@
+a:link {
+	text-decoration: underline;
+	color: #808000;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: #808000;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #4d5119;
+}
+
+#breadcrumbcontainer li {
+	padding: 0px;
+	display: inline;
+	color: #808000;
+}
+
+#breadcrumbcontainer a {
+	display: inline;
+	color: #808000;
+	text-decoration: underline;
+}
+
+#breadcrumbcontainer a:hover {
+	display: inline;
+	color: #4d5119;
+	text-decoration: underline;
+}

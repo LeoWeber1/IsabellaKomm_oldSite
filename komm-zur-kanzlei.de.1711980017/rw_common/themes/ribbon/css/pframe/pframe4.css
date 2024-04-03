@@ -1,0 +1,48 @@
+.album-title {
+	font-size: 24px;
+	font-weight: normal;
+	margin-bottom: 8px;
+	letter-spacing: -1.5px;
+	color: #999999;
+	margin-left: 10px;
+}
+
+.album-description {
+	margin-bottom: 60px;
+	color: #999999;
+	font-size: 12px;
+	text-align: left;
+}
+
+.album-wrapper {
+	display: block;
+	width: 99%;
+	position: relative;
+}
+
+.thumbnail-wrap {
+	text-align: center;
+	position: relative;
+	float: left;
+	margin-bottom: 62px;
+	margin-right: 18px;
+}
+
+.thumbnail-frame {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.thumbnail-frame img {
+    margin: auto;
+    border: solid #cccccc 3px;
+}
+
+.thumbnail-caption {
+	margin: 0;
+	padding: 0;
+	height: 35px;
+	display: block;
+	color: #999999;
+}

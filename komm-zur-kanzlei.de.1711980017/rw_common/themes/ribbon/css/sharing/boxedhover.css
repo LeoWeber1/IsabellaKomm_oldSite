@@ -1,0 +1,16 @@
+.filesharing-item {
+	padding: 5px;
+	border: 1px solid #b3b3b3;
+	margin-bottom: 10px;
+}
+
+.filesharing-item:hover {
+	padding: 5px;
+	border: 1px solid #b3b3b3;
+	margin-bottom: 10px;
+	background: #e6e6e6;
+}
+
+.filesharing-item-description {
+	margin-bottom: 0;
+}

@@ -1,0 +1,127 @@
+#container {
+	width: 877px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../../images/orange/orangeleft-middle.png);
+}
+
+#topper {
+	width: 877px;
+	background: url(../../images/orange/orangeleft-top.png) no-repeat;
+	height: 74px;
+}
+
+#pageHeader {
+	width: 607px;
+	height: 93px;
+	padding-bottom: 0;
+	margin-left: 248px;
+}
+
+#pageHeader img {
+	float: right;
+	margin: 0;
+	padding: 0;
+}
+
+#subhdr {
+	height: 120px;
+	float: left;
+	width: 595px;
+}
+
+#pageHeader h1 {
+	padding-left: 40px;
+	font: 5em Times New Roman, Times, serif;
+	color: #999999;
+	margin: 0;
+}
+
+#pageHeader h2 {
+	margin: 0;
+	padding-left: 40px;
+	font: normal 1.25em 'Lucida Grande', LucidaGrande, Lucida, Helvetica, Arial, sans-serif;
+	color: #999999;
+}
+
+#contentContainer {
+	margin: 20px 0 10px 270px;
+	padding-right: 32px;
+}
+
+#contentContainer #content {
+	padding: 10px;
+}
+
+#sidebarContainer {
+	width: 180px;
+	padding: 0 0 0 62px;
+	float: left;
+	margin: 0 0 10px;
+}
+
+#sidebarContainer #sidebar {
+	padding: 10px;
+	background: ;
+	color: #ffffff;
+}
+
+#footer {
+	font-size: 0.8em;
+	color: #999999;
+	background: no-repeat url(../../images/orange/orangeleft-bottom.png);
+	width: 877px;
+	height: 72px;
+}
+
+#footertype {
+	color: #666666;
+	font-size: .8em;
+}
+
+#footertype a {
+	color: #e6e6e6;
+	font-size: .8em;
+}
+
+#footer p {
+	padding: 0px;
+	margin: 0px;
+}
+
+#navcontainer #current {
+	color: #4c4c4c;
+	height: 16px;
+	background: transparent url(../../images/orange/buttonhover.png) no-repeat;
+	font-weight: bold;
+}
+
+#navcontainer a {
+	display: block;
+	color: #4c4c4c;
+	text-decoration: none;
+	padding: 5px 10px 5px 31px;
+	height: 16px;
+	background: url(../../images/orange/button2.png) no-repeat;
+}
+
+#navcontainer a:hover {
+	color: #4c4c4c;
+	background: transparent url(../../images/orange/buttonhover.png) no-repeat;
+	font-weight: normal;
+}
+
+#navcontainer ul ul #current {
+	background: no-repeat url(../../images/orange/button3hover.png);
+}
+
+#navcontainer ul ul a {
+	padding-left: 47px;
+	color: #4c4c4c;
+	background: url(../../images/orange/button3.png) no-repeat;
+}
+
+#navcontainer ul ul a:hover {
+	background: url(../../images/orange/button3hover.png) no-repeat;
+}

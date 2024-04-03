@@ -1,0 +1,18 @@
+.blog-entry-comments {
+	text-align: left;
+	color: #ffffff;
+	margin-top: 15px;
+	background: #b3b3b3;
+	padding: 1px 0 1px 8px;
+}
+
+.blog-entry-comments a {
+	text-align: left;
+	color: #ffffff;
+	background: #b3b3b3;
+}
+
+.blog-entry-comments a:hover {
+	color: #ffffff;
+	background: #b3b3b3;
+}

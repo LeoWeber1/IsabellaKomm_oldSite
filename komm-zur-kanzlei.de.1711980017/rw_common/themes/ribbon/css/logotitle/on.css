@@ -1,0 +1,13 @@
+#pageHeader img {
+	float: none;
+	padding-left: 42px;
+}
+
+#pageHeader h1 {
+	display: none;
+}
+
+#pageHeader h2 {
+	display: none;
+	font-style: normal;
+}
